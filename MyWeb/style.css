@@ -1,0 +1,15 @@
+
+.text-highlight{
+    color: rgb(17, 0, 255);
+}
+
+.half-part{
+    width: 40%;
+    float: left;
+    margin-left:3%;
+    padding-left: 2%;
+}
+.half-part img{
+    width: 50%;
+
+}
