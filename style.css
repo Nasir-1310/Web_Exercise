@@ -6,25 +6,32 @@
     width: 45%;
     float: left;
     margin-left: 1%;
+    margin-right: 5%;
     padding-left: 2%;
+    padding-bottom: 10%;
 }
 
 .half-part img {
-    width: 70%; /* Set the image width to 100% to fill the entire width of its container */
-   float: right;
+    width: 75%;
+    height: 50%;
+    float: left; 
+    padding-left: -50%;
+    margin-top: -20%;
+   /* float: right;
    margin-right: 20%;
-   margin-top: 1%;
+   margin-top: 1%; */
 }
 
-.top_banner{
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
+.half-part-second{
+    width: 45%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 2%;
+    padding-bottom: 10%;
 
 }
-section{
-    width: 100%;
 
-}
+
 
 .link-button{
     color: rgb(0, 0, 0);
@@ -35,4 +42,23 @@ section{
     font-weight: bold
 
 
+} 
+
+.single-experience{
+    box-shadow: 10px 10px 20px rgb(95, 95, 54);
+    border: radious 10px; 
+    height: 20%;
+
+    
+}
+#dbmo{
+    border-left: 10px solid;
+   
+    
+}
+.left-side{
+    float: left;
+}
+footer p{
+    text-align: center;
 }
